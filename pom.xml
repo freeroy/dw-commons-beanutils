@@ -10,7 +10,7 @@
 	<artifactId>dw-commons-beanutils</artifactId>
 	<packaging>jar</packaging>
 	<name>dw-commons-beanutils</name>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version>
 	<description>常见Bean操作函数包，参考apache commons beanutils</description>
 	
 	<!-- scm配置 -->
