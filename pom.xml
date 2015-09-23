@@ -9,7 +9,7 @@
 
 	<artifactId>dw-commons-beanutils</artifactId>
 	<packaging>jar</packaging>
-	<name>commons-beanutils</name>
+	<name>dw-commons-beanutils</name>
 	<version>0.0.1-SNAPSHOT</version>
 	<description>常见Bean操作函数包，参考apache commons beanutils</description>
 	
@@ -25,7 +25,7 @@
 			<groupId>commons-beanutils</groupId>
 			<artifactId>commons-beanutils</artifactId>
 			<version>1.9.2</version>
-			<scope>provideds</scope>
+			<scope>provided</scope>
 		</dependency>
 		<dependency>
 			<groupId>junit</groupId>
